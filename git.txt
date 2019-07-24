@@ -1,0 +1,4 @@
+git init
+git commit -m "gnuplot script"
+git remote add origin https://github.com/douboer/gplot.git
+git push -u origin master
