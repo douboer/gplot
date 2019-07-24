@@ -1,5 +1,9 @@
 
 ## gnuplot scripts for wifi network optimization & analysis
+   
+   -- Chengan
+      **_douboer@gmail.com_**
+
 
 ![image](https://github.com/douboer/gplot/blob/master/docs/img/1.PNG)
 
